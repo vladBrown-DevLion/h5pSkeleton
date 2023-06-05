@@ -1,0 +1,9 @@
+{
+  "greeting": "Hello world",
+  "anotherText": "I'm text",
+  "image": {
+    "path": "earth.jpg",
+    "width": 300,
+    "height": 300
+  }
+}

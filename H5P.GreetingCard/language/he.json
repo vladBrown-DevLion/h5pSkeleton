@@ -1,0 +1,16 @@
+{
+  "semantics": [
+    {
+      "label": "שלום",
+      "default": "שלום",
+      "description": "Velkomstteksten som vises til sluttbruker."
+    },
+    { 
+    "label": "שלום"
+    }, 
+    {
+      "label": "שלום",
+      "description": "Bildet som vises på kortet. Valgfritt, uten bilde vises bare teksten."
+    }
+  ]
+}
